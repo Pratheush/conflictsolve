@@ -10,6 +10,6 @@ public class DevJ {
         System.out.println("MonuDevJP spring application 5678");
         
         System.out.println("args = " + Arrays.deepToString(args));
-        System.out.println("Pratheush Spring Application - 1234");
+        System.out.println("Developer2 added hi world");
     }
 }
