@@ -7,7 +7,7 @@ public class DevJ {
         System.out.println("Hello World");
 
         // Pratheush > MonuDevJP ::: requesting add changes >> add SOP : springframework springboot
-        System.out.println("MonuDevJP spring application 5678");
+        System.out.println("Developer2 added hello world");
         
         System.out.println("args = " + Arrays.deepToString(args));
         System.out.println("Developer2 added hi world");
